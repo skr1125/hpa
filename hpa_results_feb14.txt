@@ -1,0 +1,9 @@
+fileName                    date                 description  status    publicScore  privateScore  
+--------------------------  -------------------  -----------  --------  -----------  ------------  
+protein_classification.csv  2020-02-14 21:46:55  Error   	  complete  0.16182      0.16443
+    
+protein_classification.csv  2020-02-14 05:15:47  4lyr res     complete  0.35617      0.35626
+       
+protein_classification.csv  2020-02-14 01:19:34  3lyr dense   complete  0.39016      0.38049
+         
+protein_classification.csv  2020-02-13 08:03:48  3lyr res     complete  0.42912 	 0.41705
