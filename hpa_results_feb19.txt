@@ -1,0 +1,9 @@
+fileName                    date                 description  status    publicScore  privateScore  
+--------------------------  -------------------  -----------  --------  -----------  ------------  
+protein_classification.csv  2020-02-20 00:26:42  twoSizes     complete  0.43818      0.41014       
+protein_classification.csv  2020-02-20 00:24:23  Message      complete  0.43818      0.41014       
+protein_classification.csv  2020-02-18 02:26:59  Message      complete  0.41826      0.40255       
+protein_classification.csv  2020-02-14 21:46:55  Message      complete  0.16182      0.16443       
+protein_classification.csv  2020-02-14 05:15:47  Message      complete  0.35617      0.35626       
+protein_classification.csv  2020-02-14 01:19:34  Message      complete  0.39016      0.38049       
+protein_classification.csv  2020-02-13 08:03:48  Message      complete  0.42912      0.41705    
